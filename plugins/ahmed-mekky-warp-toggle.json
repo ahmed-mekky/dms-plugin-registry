@@ -9,7 +9,9 @@
   "repo": "https://github.com/ahmed-mekky/dms-warp-toggle",
   "author": "ahmed-mekky",
   "description": "Toggle Cloudflare WARP via warp-cli with real-time status updates",
-  "dependencies": [],
+  "dependencies": [
+    "warp-cli"
+  ],
   "screenshot": "https://raw.githubusercontent.com/ahmed-mekky/dms-warp-toggle/main/assets/preview.gif",
   "compositors": [
     "any"
